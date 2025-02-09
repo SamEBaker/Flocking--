@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d3cdac911c62a44c9d2e3fd3a865a45
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3579
+  packageName: SimplePixelizer
+  packageVersion: 1.2
+  assetPath: Assets/SimplePixelizer/ReadMe.txt
+  uploadId: 34886
